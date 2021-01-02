@@ -10,7 +10,7 @@ Website is using the AWS Cloudfront service for a CDN. Redirecting all HTTP requ
 
 This is the bucket's direct Endpoint "http://project-dreamcities-flexbox.s3-website.ap-south-1.amazonaws.com" which is blocked. CDN is linked below.
 
-WEBSITE FULLY ACCESSIBLE THROUGH CDN: "d26158ih9pfx39.cloudfront.net"
+WEBSITE FULLY ACCESSIBLE THROUGH CDN: "https://d26158ih9pfx39.cloudfront.net"
 
 Learned how to:
 
