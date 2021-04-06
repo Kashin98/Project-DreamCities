@@ -12,6 +12,8 @@ This is the bucket's direct Endpoint "http://project-dreamcities-flexbox.s3-webs
 
 WEBSITE FULLY ACCESSIBLE THROUGH CDN: "https://d26158ih9pfx39.cloudfront.net"
 
+Hosted on Netlify - "https://proj-dreamcities.netlify.app"
+
 Learned how to:
 
 1.) Work with CSS flexbox on fullscale website
